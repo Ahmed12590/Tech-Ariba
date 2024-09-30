@@ -1,0 +1,288 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js
+File Name: F:\www.digivaders.com\ajax\libs\jquery.mask\1.14.15\jquery.mask.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,300,400,500,600,700
+File Name: F:\www.digivaders.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: F:\www.digivaders.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: F:\www.digivaders.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: F:\www.digivaders.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: F:\www.digivaders.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: F:\www.digivaders.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: F:\www.digivaders.com\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: F:\www.digivaders.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: F:\www.digivaders.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: F:\www.digivaders.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: F:\www.digivaders.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: F:\www.digivaders.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: F:\www.digivaders.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: F:\www.digivaders.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.digivaders.com/
+File Name: F:\www.digivaders.com\index.htm
+Content Type: text/html
+
+Uri: https://www.digivaders.com/assets/images/spinner.gif
+File Name: F:\www.digivaders.com\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://www.digivaders.com/contact-us.php
+File Name: F:\www.digivaders.com\contact-us.php.html
+Content Type: text/html
+
+Uri: https://www.digivaders.com/css/aos.css
+File Name: F:\www.digivaders.com\css\aos.css
+Content Type: text/css
+
+Uri: https://www.digivaders.com/css/bootstrap-datepicker.css
+File Name: F:\www.digivaders.com\css\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: https://www.digivaders.com/css/bootstrap.css
+File Name: F:\www.digivaders.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.digivaders.com/css/flatpickr.css
+File Name: F:\www.digivaders.com\css\flatpickr.css
+Content Type: text/css
+
+Uri: https://www.digivaders.com/css/swiper.min.css
+File Name: F:\www.digivaders.com\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://www.digivaders.com/Design-&-Development.php
+File Name: F:\www.digivaders.com\Design-&-Development.php.html
+Content Type: text/html
+
+Uri: https://www.digivaders.com/eCommerce-Optimization.php
+File Name: F:\www.digivaders.com\eCommerce-Optimization.php.html
+Content Type: text/html
+
+Uri: https://www.digivaders.com/Ghostwriting-&-Publishing.php
+File Name: F:\www.digivaders.com\Ghostwriting-&-Publishing.php.html
+Content Type: text/html
+
+Uri: https://www.digivaders.com/images/about-banner.jpg
+File Name: F:\www.digivaders.com\images\about-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/about-new2.jpg
+File Name: F:\www.digivaders.com\images\about-new2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/about-sprite.png
+File Name: F:\www.digivaders.com\images\about-sprite.png
+Content Type: image/png
+
+Uri: https://www.digivaders.com/images/android-dev.jpg
+File Name: F:\www.digivaders.com\images\android-dev.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/android-dev1.jpg
+File Name: F:\www.digivaders.com\images\android-dev1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/android-dev2.jpg
+File Name: F:\www.digivaders.com\images\android-dev2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/banner.jpg
+File Name: F:\www.digivaders.com\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/contact.jpg
+File Name: F:\www.digivaders.com\images\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/entr-sol.jpg
+File Name: F:\www.digivaders.com\images\entr-sol.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/entr-sol1.jpg
+File Name: F:\www.digivaders.com\images\entr-sol1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/entr-sol2.jpg
+File Name: F:\www.digivaders.com\images\entr-sol2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/footer-back.jpg
+File Name: F:\www.digivaders.com\images\footer-back.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/inner-sprite.png
+File Name: F:\www.digivaders.com\images\inner-sprite.png
+Content Type: image/png
+
+Uri: https://www.digivaders.com/images/ios-dev.jpg
+File Name: F:\www.digivaders.com\images\ios-dev.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/ios-dev1.jpg
+File Name: F:\www.digivaders.com\images\ios-dev1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/ios-dev2.jpg
+File Name: F:\www.digivaders.com\images\ios-dev2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/logo (1).png
+File Name: F:\www.digivaders.com\images\logo (1).png
+Content Type: image/png
+
+Uri: https://www.digivaders.com/images/service-banner.jpg
+File Name: F:\www.digivaders.com\images\service-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/service-banner1.jpg
+File Name: F:\www.digivaders.com\images\service-banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/service-banner2.jpg
+File Name: F:\www.digivaders.com\images\service-banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/sprite.png
+File Name: F:\www.digivaders.com\images\sprite.png
+Content Type: image/png
+
+Uri: https://www.digivaders.com/images/team-back-new.png
+File Name: F:\www.digivaders.com\images\team-back-new.png
+Content Type: image/png
+
+Uri: https://www.digivaders.com/images/vision-back.jpg
+File Name: F:\www.digivaders.com\images\vision-back.jpg
+Content Type: image/png
+
+Uri: https://www.digivaders.com/images/wearable-dev.jpg
+File Name: F:\www.digivaders.com\images\wearable-dev.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/wearable-dev1.jpg
+File Name: F:\www.digivaders.com\images\wearable-dev1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/wearable-dev2.jpg
+File Name: F:\www.digivaders.com\images\wearable-dev2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/Web Content.jpg
+File Name: F:\www.digivaders.com\images\Web Content.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/web-app.jpg
+File Name: F:\www.digivaders.com\images\web-app.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/web-app1.jpg
+File Name: F:\www.digivaders.com\images\web-app1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/web-app2.jpg
+File Name: F:\www.digivaders.com\images\web-app2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/white-left-back.jpg
+File Name: F:\www.digivaders.com\images\white-left-back.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/white-right-back.jpg
+File Name: F:\www.digivaders.com\images\white-right-back.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/yellow-left-back.jpg
+File Name: F:\www.digivaders.com\images\yellow-left-back.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/images/yellow-right-back.jpg
+File Name: F:\www.digivaders.com\images\yellow-right-back.jpg
+Content Type: image/jpeg
+
+Uri: https://www.digivaders.com/js/aos.js
+File Name: F:\www.digivaders.com\js\aos.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/bootstrap-datepicker.js
+File Name: F:\www.digivaders.com\js\bootstrap-datepicker.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/bootstrap-tagsinput.js
+File Name: F:\www.digivaders.com\js\bootstrap-tagsinput.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/bootstrap.min.js
+File Name: F:\www.digivaders.com\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/custom.js
+File Name: F:\www.digivaders.com\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/flatpickr.js
+File Name: F:\www.digivaders.com\js\flatpickr.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/isotope.js
+File Name: F:\www.digivaders.com\js\isotope.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/jquery-1.11.1.min.js
+File Name: F:\www.digivaders.com\js\jquery-1.11.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/swiper.min.js
+File Name: F:\www.digivaders.com\js\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/js/vunit.js
+File Name: F:\www.digivaders.com\js\vunit.js
+Content Type: application/x-javascript
+
+Uri: https://www.digivaders.com/style.css
+File Name: F:\www.digivaders.com\style.css
+Content Type: text/css
+
+Uri: https://www.digivaders.com/who-we-are.php
+File Name: F:\www.digivaders.com\who-we-are.php.html
+Content Type: text/html
+
